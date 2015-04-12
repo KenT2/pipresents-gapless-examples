@@ -1,0 +1,37 @@
+{
+ "issue": "1.3", 
+ "tracks": [
+  {
+   "animate-begin": "", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "yes", 
+   "duration": "", 
+   "image-rotate": "", 
+   "image-window": "", 
+   "links": "", 
+   "location": "+/media/space.jpg", 
+   "pause-text": "Paused......", 
+   "pause-text-colour": "white", 
+   "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-x": "10", 
+   "pause-text-y": "40", 
+   "plugin": "+/media/krt_time_concurrent.cfg", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "thumbnail": "", 
+   "title": "space.jpg", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "white", 
+   "track-text-font": "Helvetica 20 bold", 
+   "track-text-x": "0", 
+   "track-text-y": "40", 
+   "transition": "", 
+   "type": "image"
+  }
+ ]
+}

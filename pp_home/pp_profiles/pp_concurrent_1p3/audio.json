@@ -1,0 +1,33 @@
+{
+ "issue": "1.3", 
+ "tracks": [
+  {
+   "animate-begin": "", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "audio-speaker": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "yes", 
+   "duration": "", 
+   "links": "", 
+   "location": "+/media/dragon.mp3", 
+   "mplayer-audio": "", 
+   "mplayer-other-options": "", 
+   "mplayer-volume": "", 
+   "plugin": "", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "thumbnail": "", 
+   "title": "dragon.mp3", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-x": "0", 
+   "track-text-y": "0", 
+   "type": "audio"
+  }
+ ]
+}

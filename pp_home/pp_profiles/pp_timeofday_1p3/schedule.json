@@ -1,0 +1,44 @@
+{
+"simulate-time":"yes",
+"sim-year":"2014",
+"sim-month":"9",
+"sim-day":"3",
+"sim-hour":"9",
+"sim-minute":"59",
+"sim-second":"55",
+"shows":
+[
+	{"show-ref":"pp_core",
+		"everyday":{
+			"day":["everyday"],
+			"times":[
+				["exitpipresents","10:01:05"]
+				]
+			   }
+	
+	
+	},
+	{"show-ref":"showa",
+
+		"everyday":{
+			"day":["everyday"],
+			"times":[
+				["open","10:00:00"],["close","10:00:20"],
+				["open","10:00:40"],["close","10:01:00"] 
+				]
+			  }
+		
+	},
+
+	{"show-ref":"showb",
+		"everyday":{
+			"day":["everyday"],
+			"times":[
+				["open","10:00:20"],["close","10:00:40"]
+				]
+			}
+
+	
+	}
+]
+}
