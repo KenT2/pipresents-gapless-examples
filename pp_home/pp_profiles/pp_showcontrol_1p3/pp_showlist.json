@@ -95,7 +95,7 @@
    "medialist": "audio.json", 
    "mplayer-audio": "hdmi", 
    "mplayer-other-options": "", 
-   "mplayer-volume": "0", 
+   "mplayer-volume": "-3", 
    "omx-audio": "hdmi", 
    "omx-other-options": "", 
    "omx-volume": "0", 

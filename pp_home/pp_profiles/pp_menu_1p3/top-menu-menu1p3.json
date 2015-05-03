@@ -89,7 +89,7 @@
    "hint-y": "100", 
    "links": "pp-down down\npp-up up\npp-play play\npp-stop stop\npp-exit exit", 
    "menu-bullet": "/home/pi/pipresents/pp_resources/bullet.png", 
-   "menu-columns": "", 
+   "menu-columns": "1", 
    "menu-direction": "vertical", 
    "menu-guidelines": "never", 
    "menu-horizontal-padding": "10", 

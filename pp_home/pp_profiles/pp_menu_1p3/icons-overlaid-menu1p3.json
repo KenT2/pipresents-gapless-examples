@@ -429,7 +429,7 @@
    "background-image": "", 
    "display-show-background": "yes", 
    "display-show-text": "yes", 
-   "entry-colour": "dark grey", 
+   "entry-colour": "white", 
    "entry-font": "Helvetica 20 bold", 
    "entry-select-colour": "red", 
    "hint-colour": "white", 
