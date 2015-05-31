@@ -142,7 +142,7 @@
    "sequence": "ordered", 
    "show-canvas": "", 
    "show-ref": "subshow", 
-   "show-text": "Now running a show from a button\nType 1 - 6 to play a track, escape to stop", 
+   "show-text": "Now running a show from a button\nPress escape to stop\nOther mediashow controls also work", 
    "show-text-colour": "white", 
    "show-text-font": "Arial 30 bold", 
    "show-text-x": "1000", 

@@ -164,7 +164,7 @@
    "show-control-begin": "", 
    "show-control-end": "", 
    "thumbnail": "+/media/suits_tn.jpg", 
-   "title": "Suits Trailer (May Crash)", 
+   "title": "Suits Trailer", 
    "track-ref": "", 
    "track-text": "", 
    "track-text-colour": "white", 
@@ -172,6 +172,13 @@
    "track-text-x": "0", 
    "track-text-y": "40", 
    "type": "video"
+  }, 
+  {
+   "sub-show": "videoloop", 
+   "thumbnail": "", 
+   "title": "Video loop", 
+   "track-ref": "", 
+   "type": "show"
   }
  ]
 }
