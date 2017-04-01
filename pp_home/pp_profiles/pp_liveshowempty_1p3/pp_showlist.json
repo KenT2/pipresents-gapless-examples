@@ -75,7 +75,7 @@
    "audio-speaker": "stereo", 
    "background-colour": "", 
    "background-image": "", 
-   "child-track-ref": "child", 
+   "child-track-ref": "", 
    "controls": "pp-down down\npp-up up\npp-play play\npp-stop stop\npp-pause pause", 
    "disable-controls": "no", 
    "duration": "2", 
