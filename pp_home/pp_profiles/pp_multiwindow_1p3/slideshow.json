@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -17,6 +17,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -28,6 +29,7 @@
    "track-text": "", 
    "track-text-colour": "white", 
    "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "40", 
    "transition": "", 
@@ -42,6 +44,7 @@
    "display-show-background": "yes", 
    "display-show-text": "yes", 
    "freeze-at-end": "yes", 
+   "freeze-at-start": "", 
    "links": "", 
    "location": "+/media/suits-short.mkv", 
    "omx-audio": "", 
@@ -58,6 +61,7 @@
    "track-text": "", 
    "track-text-colour": "white", 
    "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "40", 
    "type": "video"
@@ -78,6 +82,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -89,6 +94,7 @@
    "track-text": "", 
    "track-text-colour": "white", 
    "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "40", 
    "transition": "", 

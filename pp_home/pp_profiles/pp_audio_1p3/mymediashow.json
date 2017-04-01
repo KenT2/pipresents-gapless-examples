@@ -1,17 +1,17 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
    "animate-clear": "no", 
    "animate-end": "", 
-   "background-colour": "red", 
+   "background-colour": "#ff0000", 
    "background-image": "", 
    "display-show-background": "yes", 
    "display-show-text": "no", 
    "duration": "10", 
    "links": "", 
-   "message-colour": "white", 
+   "message-colour": "#ffffff", 
    "message-font": "Helvetica 25 bold", 
    "message-justify": "left", 
    "message-x": "", 
@@ -19,13 +19,14 @@
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
-   "text": "Demonstrates some of the audio capabilities of Pi Presents\n\nUp and down cursor - skip through the tracks.\nSpacebar - pause\n8 and 9 - volume control\n\nGPIO is enabled for these functions, see profile\n\nIn case you are wondering:\n*   NTE is an audio magazine for the visually impaired.\n*   Listen at www.ntexpress.org.uk\n*   I am their webmaster.", 
+   "text": "Demonstrates some of the audio capabilities of Pi Presents\n\nUp and down cursor - skip through the tracks.\nSpacebar - pause\n1 and 2 - mute and unmute\n8 and 9 - volume control\n\n\nGPIO is enabled for some of these functions, see profile\n\nIn case you are wondering:\n*   NTE is an audio magazine for the visually impaired.\n*   Listen at www.ntexpress.org.uk\n*   I am their webmaster.", 
    "thumbnail": "", 
    "title": "Intro", 
    "track-ref": "", 
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -54,6 +55,7 @@
    "track-text": "Playing Audio through HDMI in stereo", 
    "track-text-colour": "white", 
    "track-text-font": "arial 30 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "500", 
    "track-text-y": "200", 
    "type": "audio"
@@ -82,6 +84,7 @@
    "track-text": "Through the STEREO headphone socket", 
    "track-text-colour": "yellow", 
    "track-text-font": "arial 30 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "700", 
    "track-text-y": "500", 
    "type": "audio"
@@ -110,6 +113,7 @@
    "track-text": "Through the LEFT headphone socket", 
    "track-text-colour": "green", 
    "track-text-font": "arial 30 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "200", 
    "track-text-y": "200", 
    "type": "audio"
@@ -138,6 +142,7 @@
    "track-text": "Through the RIGHT headphone socket", 
    "track-text-colour": "white", 
    "track-text-font": "arial 35 italic", 
+   "track-text-justify": "left", 
    "track-text-x": "900", 
    "track-text-y": "900", 
    "type": "audio"

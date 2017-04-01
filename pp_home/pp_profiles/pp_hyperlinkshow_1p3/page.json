@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -26,6 +26,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -55,6 +56,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -84,6 +86,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -113,6 +116,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -142,6 +146,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -171,6 +176,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -191,6 +197,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -202,6 +209,7 @@
    "track-text": "One image superimposed on another with background music", 
    "track-text-colour": "black", 
    "track-text-font": "arial 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "800", 
    "transition": "", 
@@ -231,6 +239,7 @@
    "track-text": "The branch from here takes you to a mediashow\nwhich will repeat automatically", 
    "track-text-colour": "white", 
    "track-text-font": "courier 30 italic", 
+   "track-text-justify": "left", 
    "track-text-x": "200", 
    "track-text-y": "300", 
    "type": "audio"
@@ -251,6 +260,7 @@
    "display-show-background": "yes", 
    "display-show-text": "yes", 
    "freeze-at-end": "yes", 
+   "freeze-at-start": "", 
    "links": "pp-onend repeat", 
    "location": "+/media/xthresh.mp4", 
    "omx-audio": "", 
@@ -267,6 +277,7 @@
    "track-text": "A windowed video superimposed on an image\nIt will repeat using the repeat command", 
    "track-text-colour": "white", 
    "track-text-font": "arial 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "200", 
    "track-text-y": "600", 
    "type": "video"
@@ -296,6 +307,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"

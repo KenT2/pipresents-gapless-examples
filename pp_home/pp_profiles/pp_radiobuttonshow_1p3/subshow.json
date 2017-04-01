@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -17,6 +17,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -28,6 +29,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "transition": "cut", 
@@ -49,6 +51,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -60,6 +63,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "transition": "cut", 

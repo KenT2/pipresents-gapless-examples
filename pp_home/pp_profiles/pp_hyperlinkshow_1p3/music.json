@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -25,6 +25,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "audio"

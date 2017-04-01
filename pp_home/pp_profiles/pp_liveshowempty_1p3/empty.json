@@ -1,0 +1,35 @@
+{
+ "issue": "1.3.2", 
+ "tracks": [
+  {
+   "animate-begin": "", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "yes", 
+   "duration": "5", 
+   "links": "", 
+   "message-colour": "#ffffff", 
+   "message-font": "Helvetica 30 bold", 
+   "message-justify": "left", 
+   "message-x": "0", 
+   "message-y": "0", 
+   "plugin": "", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "text": "Empty", 
+   "thumbnail": "", 
+   "title": "Empty Message", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "#ffffff", 
+   "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
+   "track-text-x": "0", 
+   "track-text-y": "40", 
+   "type": "message"
+  }
+ ]
+}

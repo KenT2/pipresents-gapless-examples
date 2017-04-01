@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -26,6 +26,7 @@
    "track-text": "First track of subshow", 
    "track-text-colour": "white", 
    "track-text-font": "FreeMono 20", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "100", 
    "type": "message"
@@ -46,6 +47,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -57,6 +59,7 @@
    "track-text": "Second Track of subshow", 
    "track-text-colour": "white", 
    "track-text-font": "arial 20", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "100", 
    "transition": "cut", 
@@ -87,6 +90,7 @@
    "track-text": "Third Track of subshow", 
    "track-text-colour": "white", 
    "track-text-font": "arial 20", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "100", 
    "type": "message"

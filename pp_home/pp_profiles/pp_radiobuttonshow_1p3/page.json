@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -10,6 +10,7 @@
    "display-show-background": "yes", 
    "display-show-text": "yes", 
    "freeze-at-end": "yes", 
+   "freeze-at-start": "", 
    "links": "pp-key-4 null\nbut4 null", 
    "location": "+/media/xthresh.mp4", 
    "omx-audio": "", 
@@ -26,6 +27,7 @@
    "track-text": "windowed video superimposed on an image", 
    "track-text-colour": "white", 
    "track-text-font": "arial 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "200", 
    "track-text-y": "600", 
    "type": "video"
@@ -46,6 +48,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -57,6 +60,7 @@
    "track-text": "", 
    "track-text-colour": "white", 
    "track-text-font": "arial 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "transition": "cut", 
@@ -87,6 +91,7 @@
    "track-text": "", 
    "track-text-colour": "", 
    "track-text-font": "", 
+   "track-text-justify": "left", 
    "track-text-x": "0", 
    "track-text-y": "0", 
    "type": "message"
@@ -115,6 +120,7 @@
    "track-text": "A 2 Ballad from Dragon's Album Kalahen\n\nFrom the Free Music Archive\n\nPlayed with a plain background", 
    "track-text-colour": "yellow", 
    "track-text-font": "Times 30 italic", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "700", 
    "type": "audio"
@@ -142,6 +148,7 @@
    "pause-text": "Paused......", 
    "pause-text-colour": "white", 
    "pause-text-font": "Helvetica 20 bold", 
+   "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
    "plugin": "", 
@@ -153,6 +160,7 @@
    "track-text": "one image superimposed on another with background music\n\nNote the use of Show Control to sync the audio with the image", 
    "track-text-colour": "white", 
    "track-text-font": "arial 25 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "800", 
    "transition": "cut", 
@@ -167,6 +175,7 @@
    "display-show-background": "yes", 
    "display-show-text": "yes", 
    "freeze-at-end": "yes", 
+   "freeze-at-start": "", 
    "links": "", 
    "location": "+/media/suits-short.mkv", 
    "omx-audio": "", 
@@ -183,6 +192,7 @@
    "track-text": "   1 - Image track with Audio\n   2 - Image Track\n   3 - Audio Track\n   4 - Video Track\n   5 - Subshow\n   6 - Message Track", 
    "track-text-colour": "white", 
    "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "100", 
    "type": "video"

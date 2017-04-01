@@ -1,5 +1,5 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -22,6 +22,7 @@
    "track-text": "Shameless advertising of my web sites ;-)", 
    "track-text-colour": "#331820", 
    "track-text-font": "{Droid Arabic Naskh} 30 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "100", 
    "track-text-y": "100", 
    "type": "web", 
@@ -47,6 +48,7 @@
    "entry-select-colour": "red", 
    "hint-colour": "white", 
    "hint-font": "Helvetica 30 bold", 
+   "hint-justify": "left", 
    "hint-text": "Up, down to Select, Return to Play", 
    "hint-x": "200", 
    "hint-y": "900", 
@@ -77,6 +79,7 @@
    "track-text": "", 
    "track-text-colour": "white", 
    "track-text-font": "Helvetica 30 bold", 
+   "track-text-justify": "left", 
    "track-text-x": "200", 
    "track-text-y": "20", 
    "type": "menu"

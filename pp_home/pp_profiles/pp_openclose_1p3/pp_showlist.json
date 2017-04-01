@@ -1,15 +1,10 @@
 {
- "issue": "1.3", 
+ "issue": "1.3.2", 
  "shows": [
   {
-   "show-ref": "start", 
-   "start-show": "mymediashow", 
-   "title": "Start", 
-   "type": "start"
-  }, 
-  {
-   "admin-colour": "white", 
+   "admin-colour": "#ffffff", 
    "admin-font": "Helvetica 10 bold", 
+   "admin-justify": "left", 
    "admin-x": "100", 
    "admin-y": "200", 
    "audio-speaker": "stereo", 
@@ -18,16 +13,19 @@
    "child-track-ref": "", 
    "controls": "", 
    "disable-controls": "no", 
-   "duration": "10", 
-   "eggtimer-colour": "white", 
+   "duration": "0", 
+   "eggtimer-colour": "#ffffff", 
    "eggtimer-font": "Helvetica 10 bold", 
+   "eggtimer-justify": "left", 
    "eggtimer-text": "Loading....", 
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
-   "empty-text": "Nothing to show", 
+   "empty-track-ref": "", 
    "freeze-at-end": "yes", 
+   "freeze-at-start": "no", 
    "hint-colour": "", 
    "hint-font": "", 
+   "hint-justify": "left", 
    "hint-text": "", 
    "hint-x": "200", 
    "hint-y": "", 
@@ -45,10 +43,13 @@
    "repeat": "repeat", 
    "sequence": "ordered", 
    "show-canvas": "", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
    "show-ref": "mymediashow", 
    "show-text": "", 
    "show-text-colour": "", 
    "show-text-font": "", 
+   "show-text-justify": "left", 
    "show-text-x": "0", 
    "show-text-y": "0", 
    "show-timeout": "0", 
@@ -64,6 +65,15 @@
    "trigger-wait-text": "Waiting for Trigger....", 
    "type": "mediashow", 
    "web-window": "warp"
+  }, 
+  {
+   "background-colour": "#000000", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "show-ref": "start", 
+   "start-show": "mymediashow", 
+   "title": "Start", 
+   "type": "start"
   }
  ]
 }
