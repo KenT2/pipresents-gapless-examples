@@ -1,5 +1,5 @@
 {
- "issue": "1.3.2", 
+ "issue": "1.3.3", 
  "shows": [
   {
    "admin-colour": "#ffffff", 
@@ -21,6 +21,7 @@
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
    "empty-track-ref": "", 
+   "escape-track-ref": "", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 
    "hint-colour": "", 
@@ -55,6 +56,11 @@
    "show-timeout": "0", 
    "title": "Mediashow", 
    "track-count-limit": "0", 
+   "track-text-colour": "#ffffff", 
+   "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
+   "track-text-x": "0", 
+   "track-text-y": "40", 
    "transition": "cut", 
    "trigger-end-param": "close", 
    "trigger-end-type": "input", 
