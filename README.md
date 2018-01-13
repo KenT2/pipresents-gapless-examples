@@ -1,1 +1,1 @@
-Examples for Pi Presents Gapless - Version 1.3.1
+Examples for Pi Presents Gapless - Version 1.3.4
