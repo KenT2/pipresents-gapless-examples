@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -20,6 +20,7 @@
    "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
+   "pause-timeout": "", 
    "plugin": "+/media/krt_image_text.cfg", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -50,6 +51,7 @@
    "mplayer-audio": "", 
    "mplayer-other-options": "", 
    "mplayer-volume": "", 
+   "pause-timeout": "", 
    "plugin": "+/media/krt_time.cfg", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -80,6 +82,7 @@
    "omx-other-options": "", 
    "omx-volume": "", 
    "omx-window": "warp 100 110 700 500", 
+   "pause-timeout": "", 
    "plugin": "+/media/krt_time.cfg", 
    "seamless-loop": "no", 
    "show-control-begin": "", 

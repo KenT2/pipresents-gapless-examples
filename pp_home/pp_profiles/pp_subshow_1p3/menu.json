@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -69,6 +69,7 @@
    "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -100,6 +101,7 @@
    "omx-other-options": "", 
    "omx-volume": "", 
    "omx-window": "warp 200 200 700 900", 
+   "pause-timeout": "", 
    "plugin": "", 
    "seamless-loop": "no", 
    "show-control-begin": "", 

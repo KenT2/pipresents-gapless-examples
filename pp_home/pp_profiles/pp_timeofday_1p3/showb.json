@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -46,6 +46,7 @@
    "mplayer-audio": "hdmi", 
    "mplayer-other-options": "", 
    "mplayer-volume": "", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 

@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -20,6 +20,7 @@
    "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -51,6 +52,7 @@
    "omx-other-options": "", 
    "omx-volume": "", 
    "omx-window": "", 
+   "pause-timeout": "", 
    "plugin": "", 
    "seamless-loop": "no", 
    "show-control-begin": "", 
@@ -81,6 +83,7 @@
    "mplayer-audio": "", 
    "mplayer-other-options": "", 
    "mplayer-volume": "", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 

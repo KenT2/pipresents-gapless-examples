@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "tracks": [
   {
    "animate-begin": "", 
@@ -17,6 +17,7 @@
    "omx-other-options": "", 
    "omx-volume": "", 
    "omx-window": "warp 200 200 600 600", 
+   "pause-timeout": "", 
    "plugin": "", 
    "seamless-loop": "no", 
    "show-control-begin": "", 
@@ -51,6 +52,7 @@
    "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -111,6 +113,7 @@
    "mplayer-audio": "", 
    "mplayer-other-options": "", 
    "mplayer-volume": "-3", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
@@ -151,6 +154,7 @@
    "pause-text-justify": "left", 
    "pause-text-x": "10", 
    "pause-text-y": "40", 
+   "pause-timeout": "", 
    "plugin": "", 
    "show-control-begin": "open music", 
    "show-control-end": "close music", 
@@ -182,6 +186,7 @@
    "omx-other-options": "", 
    "omx-volume": "", 
    "omx-window": "warp 400 400 800 700", 
+   "pause-timeout": "", 
    "plugin": "", 
    "seamless-loop": "no", 
    "show-control-begin": "", 

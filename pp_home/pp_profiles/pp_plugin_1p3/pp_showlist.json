@@ -1,5 +1,5 @@
 {
- "issue": "1.3.3", 
+ "issue": "1.3.4", 
  "shows": [
   {
    "admin-colour": "#ffffff", 
@@ -43,6 +43,7 @@
    "omx-other-options": "", 
    "omx-volume": "0", 
    "omx-window": "warp 200 200 700 700", 
+   "pause-timeout": "", 
    "repeat": "repeat", 
    "sequence": "ordered", 
    "show-canvas": "", 
@@ -102,6 +103,7 @@
    "omx-other-options": "", 
    "omx-volume": "0", 
    "omx-window": "original", 
+   "pause-timeout": "", 
    "show-canvas": "", 
    "show-control-begin": "", 
    "show-control-end": "", 
