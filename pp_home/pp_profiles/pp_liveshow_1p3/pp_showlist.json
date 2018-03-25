@@ -2,16 +2,7 @@
  "issue": "1.3.4", 
  "shows": [
   {
-   "background-colour": "#000000", 
-   "show-control-begin": "", 
-   "show-control-end": "", 
-   "show-ref": "start", 
-   "start-show": "liveshow", 
-   "title": "Start", 
-   "type": "start"
-  }, 
-  {
-   "admin-colour": "white", 
+   "admin-colour": "#ffffff", 
    "admin-font": "Helvetica 10 bold", 
    "admin-justify": "left", 
    "admin-x": "100", 
@@ -23,17 +14,17 @@
    "controls": "", 
    "disable-controls": "no", 
    "duration": "10", 
-   "eggtimer-colour": "white", 
+   "eggtimer-colour": "#ffffff", 
    "eggtimer-font": "Helvetica 10 bold", 
    "eggtimer-justify": "left", 
    "eggtimer-text": "Loading....", 
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
-   "empty-track-ref": "", 
+   "empty-track-ref": "empty", 
    "escape-track-ref": "", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 
-   "hint-colour": "white", 
+   "hint-colour": "#ffffff", 
    "hint-font": "Helvetica 30 bold", 
    "hint-justify": "left", 
    "hint-text": "Press Return for Menu", 
@@ -62,7 +53,7 @@
    "show-control-not-empty": "", 
    "show-ref": "liveshow", 
    "show-text": "No need to prepare a show in advance\n\nJust drop image, video, audio, web, or plugin files into\n\n/home/pi/pp_home/pp_live_tracks", 
-   "show-text-colour": "white", 
+   "show-text-colour": "#ffffff", 
    "show-text-font": "arial 30 bold italic", 
    "show-text-justify": "left", 
    "show-text-x": "1000", 
@@ -70,7 +61,7 @@
    "show-timeout": "0", 
    "title": "Liveshow", 
    "track-count-limit": "0", 
-   "track-text-colour": "white", 
+   "track-text-colour": "#ffffff", 
    "track-text-font": "Helvetica 20 bold", 
    "track-text-justify": "left", 
    "track-text-x": "0", 
@@ -85,6 +76,15 @@
    "trigger-wait-text": "Waiting for Trigger....", 
    "type": "liveshow", 
    "web-window": "warp  100 200 900 900"
+  }, 
+  {
+   "background-colour": "#000000", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "show-ref": "start", 
+   "start-show": "liveshow", 
+   "title": "Start", 
+   "type": "start"
   }
  ]
 }

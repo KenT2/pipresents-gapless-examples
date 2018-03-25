@@ -1,4 +1,35 @@
 {
  "issue": "1.3.4", 
- "tracks": []
+ "tracks": [
+  {
+   "animate-begin": "", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "yes", 
+   "duration": "", 
+   "links": "", 
+   "message-colour": "#ffffff", 
+   "message-font": "Helvetica 30 bold", 
+   "message-justify": "left", 
+   "message-x": "0", 
+   "message-y": "0", 
+   "plugin": "", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "text": "LIVELIST IS EMPTY", 
+   "thumbnail": "", 
+   "title": "Empty Message", 
+   "track-ref": "empty", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-justify": "", 
+   "track-text-x": "", 
+   "track-text-y": "", 
+   "type": "message"
+  }
+ ]
 }
